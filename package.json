@@ -28,10 +28,13 @@
       "prettier --write"
     ]
   },
-  "name": "dropdownbutton",
-  "version": "1.0.0",
-  "main": "eslint.config.js",
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "name": "@pzpraz/dropdown-button",
+  "version": "1.0.1",
+  "description": "A simple dropdown button",
+  "main": "index.js",
+  "files": ["index.js", "src/"],
+  "keywords": ["dropdown", "menu", "button"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
 }
